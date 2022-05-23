@@ -13,6 +13,7 @@ This repo contains code to deploy rearc's quest app to Amazon ECS using terrafor
 - After having git, docker, terraform and the AWS cli installed, run the following commands to deploy the app:
 - Clone this repo: `git clone https://github.com/bmukum/quest.git`
 - Execute the script:
+  - `cd quest`
   - `chmod +x deploy.sh`
   - `./deploy.sh`
 
