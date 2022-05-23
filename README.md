@@ -15,6 +15,7 @@ This repo contains code to deploy rearc's quest app to Amazon ECS using terrafor
 - Execute the script:
   - `cd quest`
   - `chmod +x deploy.sh`
+  - `terraform init`
   - `./deploy.sh`
 
 
