@@ -26,3 +26,14 @@ Terraform would output the load balancer dns name. Check the deployment with:
 3. Secret Word check - `http://<alb-dns>/secret_word`
 4. Load Balancer check  - `http://<alb-dns>/loadbalanced`
 5. TLS check - `http://<alb-dns>/tls`
+
+### How should it look like ?
+AWS index page
+
+Docker check
+
+ Secret Word check
+
+ Load Balancer check
+
+ TLS check
