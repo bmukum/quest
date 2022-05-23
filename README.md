@@ -28,12 +28,6 @@ Terraform would output the load balancer dns name. Check the deployment with:
 5. TLS check - `http://<alb-dns>/tls`
 
 ### How should it look like ?
-AWS index page
+My index page looks like this:
 
-Docker check
-
- Secret Word check
-
- Load Balancer check
-
- TLS check
+<img width="1402" alt="image" src="https://user-images.githubusercontent.com/64148017/169851418-def2446b-298f-4b3c-a109-d932fb013516.png">
